@@ -14,3 +14,7 @@ function destructivelyRemoveFirstKitten(){
 function destructivelyRemoveLastKitten(){
   kittens.pop()
 }
+
+function appendKitten(name){}
+function prependKitten(name){}
+
